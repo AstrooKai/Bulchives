@@ -35,7 +35,7 @@ To easily download the files, just click the [Download]() link of your desired f
 | Agaton_TCB_28.pdf | Apr-12-2022 06:06 UTC |  507kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_28.pdf)
 | Agaton_TCB_29.pdf | Apr-12-2022 09:18 UTC |  248kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_29.pdf)
 | Agaton_TCB_30.pdf | Apr-12-2022 12:03 UTC |  251kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_30.pdf)
-| Agaton_TCB_31F.pdf | Apr-12-2022 15:11 UTC |  205kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_31.pdf)
+| Agaton_TCB_31F.pdf | Apr-12-2022 15:11 UTC |  205kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_31F.pdf)
 
 ## Data Source
 **Department of Science and Technology - Philippine Atmospheric Geophysical Astronomical Services Administration (DOST-PAGASA)**
