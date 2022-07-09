@@ -36,7 +36,7 @@ To easily download the files, just click the [Download]() link of your desired f
 | Agaton_TCWS_28.png | Apr-12-2022 06:06 UTC |  507kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_28.png)
 | Agaton_TCWS_29.png | Apr-12-2022 09:18 UTC |  248kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_29.png)
 | Agaton_TCWS_30.png | Apr-12-2022 12:03 UTC |  251kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_30.png)
-| Agaton_TCWS_31F.png | Apr-12-2022 15:11 UTC |  205kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_31.png)
+| Agaton_TCWS_31F.png | Apr-12-2022 15:11 UTC |  205kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_31F.png)
 
 ## Data Source
 **Department of Science and Technology - Philippine Atmospheric Geophysical Astronomical Services Administration (DOST-PAGASA)**
