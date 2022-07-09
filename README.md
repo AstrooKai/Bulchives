@@ -1,2 +1,4 @@
 # Bulchives
-A data backup repository for Bulchives, a PAGASA tropical cyclone bulletin archive website. *Not affiliated with the agency*
+Bulchives is a data backup repository where all tropical cyclone bulletins, track maps, and TCWS maps issued are being archived. Archiving data manually since 2022.
+
+## Available Data
