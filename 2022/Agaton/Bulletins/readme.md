@@ -4,7 +4,7 @@ This folder contains all TCBs issued by PAGASA for Agaton (Megi 03W). The file w
 ## File Download
 To easily download the files, just click the Download link next to your desired file.
 |     **File**     | **Size** | **Download Link** |
-|:----------------:|:----- --:|:-----------------:|
+|:----------------:|:--------:|:-----------------:|
 | Agaton_TCB_1.pdf |  524kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_1.pdf)
 | Agaton_TCB_2.pdf |  244kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_2.pdf)
 | Agaton_TCB_3.pdf |  505kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_3.pdf)
