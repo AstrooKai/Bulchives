@@ -6,6 +6,6 @@ Bulchives is a data backup repository where all tropical cyclone bulletins, trac
 | **Name** | **Bulletins** | **Forecast Tracks** | **TCWS** |
 |:--------:|:-------------:|:-------------------:|:--------:|
 |  **[Agaton](/2022/Agaton)**  |       [✅](/2022/Agaton/Bulletins)       |          ✅          |     ✅    |
-|  **[Basyang](/2022/Basyang)** |       ✅       |          ✅          |     ✅    |
-|   **Caloy**  |       ✅       |          ✅          |     ❌    |
-|  **Domeng**  |       ✅       |          ✅          |     ❌    |
+|  **[Basyang](/2022/Basyang)** |       [✅](/2022/Basyang/Bulletins)       |          ✅          |     ✅    |
+|   **[Caloy](/2022/Caloy)**  |       [✅](/2022/Caloy/Bulletins)       |          ✅          |     ❌    |
+|  **[Domeng](/2022/Domeng)**  |       [✅](/2022/Domeng/Bulletins)       |          ✅          |     ❌    |
