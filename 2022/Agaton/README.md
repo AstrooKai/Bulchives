@@ -4,9 +4,9 @@ THis directory contains all of DOST-PAGASA issued bulletins, forecast maps, and 
 ## Download
 |      **File**     |    **Time & Date**    | **Size** | **Download Link** |
 |:-----------------:|:---------------------:|:--------:|:-----------------:|
-|  Agaton_TCBs.zip  | Jul-10-2022 07:57 UTC |  11.5mb  |      [Download](/Bulletins/Agaton_TCBs.zip)     |
-|  Agaton_TCWS.zip  | Jul-10-2022 08:22 UTC |   6.6mb  |      [Download](/TCWS/Agaton_TCWS.zip)     |
-| Agaton_Tracks.zip | Jul-10-2022 08:23 UTC |  23.3mb  |      [Download](/Tracks/Agaton_Tracks.zip)     |
+|  Agaton_TCBs.zip  | Jul-10-2022 07:57 UTC |  11.5mb  |      [Download](/2022/Agaton/Bulletins/Agaton_TCBs.zip)     |
+|  Agaton_TCWS.zip  | Jul-10-2022 08:22 UTC |   6.6mb  |      [Download](/2022/Agaton/TCWS/Agaton_TCWS.zip)     |
+| Agaton_Tracks.zip | Jul-10-2022 08:23 UTC |  23.3mb  |      [Download](/2022/Agaton/Tracks/Agaton_Tracks.zip)     |
 
 ## TC Information (Wikipedia)
 |     Formed     |                               Apr 8 2022                               |
