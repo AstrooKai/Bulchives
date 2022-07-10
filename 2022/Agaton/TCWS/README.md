@@ -1,4 +1,4 @@
-## Agaton (2022)
+## 03W Megi 2022 (Agaton)
 ### Tropical Cyclone Wind Signals (TCWS)
 This folder contains all TCWS maps issued by PAGASA for Agaton (Megi 03W). The file with 'F' at the end of its name is the final map issued.
 ## File Information & Download
