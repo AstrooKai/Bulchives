@@ -1,4 +1,4 @@
-## Agaton (2022)
+## 03W Megi 2022 (Agaton)
 ### Tropical Cyclone Bulletins (TCB)
 This folder contains all TCBs issued by PAGASA for Agaton (Megi 03W). The file with 'F' at the end of its name is the final bulletin issued.
 ## File Information & Download
