@@ -1,104 +1,30 @@
-### Tropical Cyclone Bulletins
-|     **File**     | **Time & Date** | **Size** | **Download Link** |
-|:----------------:|:---------------:|:--------:|:-----------------:|
-| Agaton_TCB_1.pdf | Apr-08-2022 21:34 UTC |  524kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_1.pdf)
-| Agaton_TCB_2.pdf | Apr-09-2022 01:09 UTC |  244kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_2.pdf)
-| Agaton_TCB_3.pdf | Apr-09-2022 03:24 UTC |  505kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_3.pdf)
-| Agaton_TCB_4.pdf | Apr-09-2022 05:50 UTC |  506kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_4.pdf)
-| Agaton_TCB_5.pdf | Apr-09-2022 08:58 UTC |  502kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_5.pdf)
-| Agaton_TCB_6.pdf | Apr-09-2022 11:49 UTC |  517kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_6.pdf)
-| Agaton_TCB_7.pdf | Apr-09-2022 15:36 UTC |  257kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_7.pdf)
-| Agaton_TCB_8.pdf | Apr-09-2022 17:47 UTC |  261kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_8.pdf)
-| Agaton_TCB_9.pdf | Apr-09-2022 21:11 UTC |  268kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_9.pdf)
-| Agaton_TCB_10.pdf | Apr-10-2022 00:39 UTC |  548kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_10.pdf)
-| Agaton_TCB_11.pdf | Apr-10-2022 03:22 UTC |  527kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_11.pdf)
-| Agaton_TCB_12.pdf | Apr-10-2022 06:06 UTC |  524kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_12.pdf)
-| Agaton_TCB_13.pdf | Apr-10-2022 09:12 UTC |  536kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_13.pdf)
-| Agaton_TCB_14.pdf | Apr-10-2022 12:09 UTC |  266kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_14.pdf)
-| Agaton_TCB_15.pdf | Apr-10-2022 15:36 UTC |  257kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_15.pdf)
-| Agaton_TCB_16.pdf | Apr-10-2022 17:56 UTC |  270kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_16.pdf)
-| Agaton_TCB_17.pdf | Apr-10-2022 20:35 UTC |  270kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_17.pdf)
-| Agaton_TCB_18.pdf | Apr-11-2022 00:02 UTC |  530kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_18.pdf)
-| Agaton_TCB_19.pdf | Apr-11-2022 03:23 UTC |  534kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_19.pdf)
-| Agaton_TCB_20.pdf | Apr-11-2022 06:02 UTC |  499kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_20.pdf)
-| Agaton_TCB_21.pdf | Apr-11-2022 09:02 UTC |  519kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_21.pdf)
-| Agaton_TCB_22.pdf | Apr-11-2022 11:54 UTC |  256kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_22.pdf)
-| Agaton_TCB_23.pdf | Apr-11-2022 14:59 UTC |  250kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_23.pdf)
-| Agaton_TCB_24.pdf | Apr-11-2022 17:44 UTC |  193kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_24.pdf)
-| Agaton_TCB_25.pdf | Apr-11-2022 20:51 UTC |  191kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_25.pdf)
-| Agaton_TCB_26.pdf | Apr-11-2022 23:28 UTC |  243kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_26.pdf)
-| Agaton_TCB_27.pdf | Apr-12-2022 03:49 UTC |  558kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_27.pdf)
-| Agaton_TCB_28.pdf | Apr-12-2022 06:06 UTC |  507kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_28.pdf)
-| Agaton_TCB_29.pdf | Apr-12-2022 09:18 UTC |  248kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_29.pdf)
-| Agaton_TCB_30.pdf | Apr-12-2022 12:03 UTC |  251kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_30.pdf)
-| Agaton_TCB_31F.pdf | Apr-12-2022 15:11 UTC |  205kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Bulletins/Agaton_TCB_31F.pdf)
+## 03W Megi 2022 (Agaton)
+THis directory contains all of DOST-PAGASA issued bulletins, forecast maps, and TCWS maps for Tropical Storm Megi (Agaton). You can download every files in each category (TCB, TCWS, Tracks) as zip files by clicking the download links below.
 
-### Forecast Tracks
-|     **File**     | **Time & Date** | **Size** | **Download Link** |
-|:----------------:|:---------------:|:--------:|:-----------------:|
-| Agaton_Track_1.png | Apr-08-2022 21:34 UTC |  89.6kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_1.png)
-| Agaton_Track_2.png | Apr-09-2022 01:09 UTC |  89.7kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_2.png)
-| Agaton_Track_3.png | Apr-09-2022 03:24 UTC |  89.5kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_3.png)
-| Agaton_Track_4.png | Apr-09-2022 05:50 UTC |  89.4kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_4.png)
-| Agaton_Track_5.png | Apr-09-2022 08:58 UTC |  89.7kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_5.png)
-| Agaton_Track_6.png | Apr-09-2022 11:49 UTC |  89.6kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_6.png)
-| Agaton_Track_7.png | Apr-09-2022 15:36 UTC |  89.5kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_7.png)
-| Agaton_Track_8.png | Apr-09-2022 17:47 UTC |  89.4kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_8.png)
-| Agaton_Track_9.png | Apr-09-2022 21:11 UTC |  276kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_9.png)
-| Agaton_Track_10.png | Apr-10-2022 00:39 UTC |  274kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_10.png)
-| Agaton_Track_11.png | Apr-10-2022 03:22 UTC |  269kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_11.png)
-| Agaton_Track_12.png | Apr-10-2022 06:06 UTC |  414kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_12.png)
-| Agaton_Track_13.png | Apr-10-2022 09:12 UTC |  99.8kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_13.png)
-| Agaton_Track_14.png | Apr-10-2022 12:09 UTC |  330kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_14.png)
-| Agaton_Track_15.png | Apr-10-2022 15:36 UTC |  288kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_15.png)
-| Agaton_Track_16.png | Apr-10-2022 17:56 UTC |  243kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_16.png)
-| Agaton_Track_17.png | Apr-10-2022 20:35 UTC |  273kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_17.png)
-| Agaton_Track_18.png | Apr-11-2022 00:02 UTC |  86.2kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_18.png)
-| Agaton_Track_19.png | Apr-11-2022 03:23 UTC |  86kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_19.png)
-| Agaton_Track_20.png | Apr-11-2022 06:02 UTC |  86kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_20.png)
-| Agaton_Track_21.png | Apr-11-2022 09:02 UTC |  85.9kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_21.png)
-| Agaton_Track_22.png | Apr-11-2022 11:54 UTC |  81.8kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_22.png)
-| Agaton_Track_23.png | Apr-11-2022 14:59 UTC |  83.4kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_23.png)
-| Agaton_Track_24.png | Apr-11-2022 17:44 UTC |  83.4kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_24.png)
-| Agaton_Track_25.png | Apr-11-2022 20:51 UTC |  83.4kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_25.png)
-| Agaton_Track_26.png | Apr-11-2022 23:28 UTC |  83.4kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_26.png)
-| Agaton_Track_27.png | Apr-12-2022 03:49 UTC |  83.4kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_27.png)
-| Agaton_Track_28.png | Apr-12-2022 06:06 UTC |  99.3kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_28.png)
-| Agaton_Track_29.png | Apr-12-2022 09:18 UTC |  92.3kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_29.png)
-| Agaton_Track_30.png | Apr-12-2022 12:03 UTC |  92.5kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_30.png)
-| Agaton_Track_31F.png | Apr-12-2022 15:11 UTC |  2.05mb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/Tracks/Agaton_Track_31F.png)
+## Download
+|      **File**     |    **Time & Date**    | **Size** | **Download Link** |
+|:-----------------:|:---------------------:|:--------:|:-----------------:|
+|  Agaton_TCBs.zip  | Jul-10-2022 07:57 UTC |  11.5mb  |      Download     |
+|  Agaton_TCWS.zip  | Jul-10-2022 08:22 UTC |   6.6mb  |      Download     |
+| Agaton_Tracks.zip | Jul-10-2022 08:23 UTC |  23.3mb  |      Download     |
 
-### Tropical Cyclone Wind Signals
-|     **File**     | **Time & Date** | **Size** | **Download Link** |
-|:----------------:|:---------------:|:--------:|:-----------------:|
-| Agaton_TCWS_1.png | Apr-08-2022 21:34 UTC |  89.6kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_1.png)
-| Agaton_TCWS_2.png | Apr-09-2022 01:09 UTC |  89.7kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_2.png)
-| Agaton_TCWS_3.png | Apr-09-2022 03:24 UTC |  89.5kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_3.png)
-| Agaton_TCWS_4.png | Apr-09-2022 05:50 UTC |  89.4kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_4.png)
-| Agaton_TCWS_5.png | Apr-09-2022 08:58 UTC |  89.7kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_5.png)
-| Agaton_TCWS_6.png | Apr-09-2022 11:49 UTC |  89.6kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_6.png)
-| Agaton_TCWS_7.png | Apr-09-2022 15:36 UTC |  89.5kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_7.png)
-| Agaton_TCWS_8.png | Apr-09-2022 17:47 UTC |  89.4kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_8.png)
-| Agaton_TCWS_9.png | Apr-09-2022 21:11 UTC |  276kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_9.png)
-| Agaton_TCWS_10.png | Apr-10-2022 00:39 UTC |  274kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_10.png)
-| Agaton_TCWS_11.png | Apr-10-2022 03:22 UTC |  269kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_11.png)
-| Agaton_TCWS_12.png | Apr-10-2022 06:06 UTC |  414kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_12.png)
-| Agaton_TCWS_13.png | Apr-10-2022 09:12 UTC |  99.8kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_13.png)
-| Agaton_TCWS_14.png | Apr-10-2022 12:09 UTC |  330kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_14.png)
-| Agaton_TCWS_15.png | Apr-10-2022 15:36 UTC |  288kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_15.png)
-| Agaton_TCWS_16.png | Apr-10-2022 17:56 UTC |  243kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_16.png)
-| Agaton_TCWS_17.png | Apr-10-2022 20:35 UTC |  273kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_17.png)
-| Agaton_TCWS_18.png | Apr-11-2022 00:02 UTC |  86.2kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_18.png)
-| Agaton_TCWS_19.png | Apr-11-2022 03:23 UTC |  86kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_19.png)
-| Agaton_TCWS_20.png | Apr-11-2022 06:02 UTC |  86kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_20.png)
-| Agaton_TCWS_21.png | Apr-11-2022 09:02 UTC |  85.9kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_21.png)
-| Agaton_TCWS_22.png | Apr-11-2022 11:54 UTC |  81.8kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_22.png)
-| Agaton_TCWS_23.png | Apr-11-2022 14:59 UTC |  83.4kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_23.png)
-| Agaton_TCWS_24.png | Apr-11-2022 17:44 UTC |  83.4kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_24.png)
-| Agaton_TCWS_25.png | Apr-11-2022 20:51 UTC |  83.4kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_25.png)
-| Agaton_TCWS_26.png | Apr-11-2022 23:28 UTC |  83.4kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_26.png)
-| Agaton_TCWS_27.png | Apr-12-2022 03:49 UTC |  83.4kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_27.png)
-| Agaton_TCWS_28.png | Apr-12-2022 06:06 UTC |  99.3kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_28.png)
-| Agaton_TCWS_29.png | Apr-12-2022 09:18 UTC |  92.3kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_29.png)
-| Agaton_TCWS_30.png | Apr-12-2022 12:03 UTC |  92.5kb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_30.png)
-| Agaton_TCWS_31F.png | Apr-12-2022 15:11 UTC |  2.05mb  |      [Download](https://raw.githubusercontent.com/AstrooKai/Bulchives/main/2022/Agaton/TCWS/Agaton_TCWS_31F.png)
+## TC Information (Wikipedia)
+|     Formed     |                               Apr 8 2022                               |
+|:--------------:|:----------------------------------------------------------------------:|
+|   Dissipated   |                               Apr 13 2022                              |
+|  Highest Winds | 10-minute sustained: 65km/h (40mph)<br>1-minute sustained: 75km/h (45mph) |
+| LowestPressure |                           998hPa (29.47inHg)                           |
+|   Fatalities   |                         214 total, 132 missing                         |
+|     Damage     |                           > $90.8M (2022 USD)                          |
+| Areas Affected |                               Philippines                              |
+### Summary
+Tropical Storm Megi, known in the Philippines as Tropical Storm Agaton, was a weak but deadly tropical cyclone that impacted the Philippines in April 2022. It was the third tropical depression, and the second tropical storm of the 2022 Pacific typhoon season. Megi originated from an area of convection in the Philippine Sea where it slowly tracked northwestward into the Leyte Gulf where it remained almost stationary, slowly tracking to the east. Megi made two landfalls, one in Calicoan Island in Guiuan, and another in Basey, Samar. It continued to track southwestward and reentered the Philippine Sea before dissipating.
+## Damage Summary
+Heavy rains and gales led to the sinking of two ships. Major landslides pushed mud over villages in Leyte, burying around 210 houses. As of April 29, 2022, the Philippines' National Disaster Risk Reduction and Management Council (NDRRMC) has reported 214 deaths, 132 missing, and 8 injured. The Department of Agriculture estimates worth ₱3.27 billion in agricultural damages, and the Department of Public Works and Highways estimates worth ₱1.45 billion in infrastructural damages, for a total of ₱4.72 billion (US$90.8 million). These currently differ from the damages reported by the NDRRMC, which remain at ₱2.27 billion (US$43.7 million).
+
+### Track Map
+![Map plotting the storm's track and intensity, according to the Saffir–Simpson scale](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Megi_2022_track.png/1280px-Megi_2022_track.png)
+
+### References & Links
+- [Wikipedia - Tropical Storm Megi (2022)](https://en.wikipedia.org/wiki/Tropical_Storm_Megi_(2022))
+- [Track Map](https://commons.wikimedia.org/wiki/File:Megi_2022_track.png)
