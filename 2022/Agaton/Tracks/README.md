@@ -1,4 +1,4 @@
-## Agaton (2022)
+## 03W Megi 2022 (Agaton)
 ### Forecast Track Maps
 This folder contains all forecast track maps issued by PAGASA for Agaton (Megi 03W). The file with 'F' at the end of its name is the final map issued.
 ## File Information & Download
