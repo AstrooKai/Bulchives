@@ -9,7 +9,8 @@ Bulchives is a data backup repository where all tropical cyclone bulletins, trac
 |  **[Basyang](/2022/Basyang)** |       [✅](/2022/Basyang/Bulletins)       |          [✅](/2022/Basyang/Tracks)          |     [✅](/2022/Agaton/TCWS)    |
 |   **[Caloy](/2022/Caloy)**  |       [✅](/2022/Caloy/Bulletins)       |          [✅](/2022/Caloy/Tracks)          |     ❌    |
 |  **[Domeng](/2022/Domeng)**  |       [✅](/2022/Domeng/Bulletins)       |          [✅](/2022/Domeng/Tracks)          |     ❌    |
+|  **[Ester](/2022/Ester)**  |       [✅](/2022/Ester/Bulletins)       |          [✅](/2022/Ester/Tracks)          |     ❌    |
 
-*For easy navigation, click the checkmarks to get redirected to that appropriate folder.*
+*For quick and easy navigation, click the checkmarks to get redirected to that appropriate folder.*
 
 ## Data Source<br>[DOST-PAGASA](https://www.pagasa.dost.gov.ph/)
