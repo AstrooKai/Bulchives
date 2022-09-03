@@ -1,5 +1,5 @@
 # Bulchives
-Bulchives is a data backup repository where all tropical cyclone bulletins, track maps, and TCWS maps issued are being archived. Archiving data manually since 2022.
+Bulchives is a data repository where all tropical cyclone bulletins, track maps, and TCWS maps issued are being archived. Archiving data manually since 2022.
 
 ## Available Data
 ### 2022
@@ -10,6 +10,7 @@ Bulchives is a data backup repository where all tropical cyclone bulletins, trac
 |   **[Caloy](/2022/Caloy)**  |       [✅](/2022/Caloy/Bulletins)       |          [✅](/2022/Caloy/Tracks)          |     ❌    |
 |  **[Domeng](/2022/Domeng)**  |       [✅](/2022/Domeng/Bulletins)       |          [✅](/2022/Domeng/Tracks)          |     ❌    |
 |  **[Ester](/2022/Ester)**  |       [✅](/2022/Ester/Bulletins)       |          [✅](/2022/Ester/Tracks)          |     ❌    |
+|  **[Florita](/2022/Florita)**  |       [✅](/2022/Florita/Bulletins)       |          [✅](/2022/Florita/Tracks)          |     [✅](/2022/Florita/TCWS)    |
 
 *For quick and easy navigation, click the checkmarks to get redirected to that appropriate folder.*
 
