@@ -14,8 +14,10 @@ Bulchives is a data repository where all tropical cyclone bulletins, track maps,
 |  **[Gardo](/2022/Gardo)**  |       [✅](/2022/Gardo/Bulletins)       |          [✅](/2022/Gardo/Tracks)          |     ❌    |
 |  **[Henry](/2022/Henry)**  |       [✅](/2022/Henry/Bulletins)       |          [✅](/2022/Henry/Tracks)          |     [✅](/2022/Henry/TCWS)    |
 |  **[Inday](/2022/Inday)**  |       [✅](/2022/Inday/Bulletins)       |          [✅](/2022/Inday/Tracks)          |     ❌    |
-|  **[Josie](/2022/Josie)**  |       [✅](/2022/Josie/Bulletins)       |          [✅](/2022/Joie/Tracks)          |     ❌    |
+|  **[Josie](/2022/Josie)**  |       [✅](/2022/Josie/Bulletins)       |          [✅](/2022/Josie/Tracks)          |     ❌    |
 |  **[Karding](/2022/Karding)**  |       [✅](/2022/Karding/Bulletins)       |          [✅](/2022/Karding/Tracks)          |     [✅](/2022/Karding/TCWS)    |
+|  **[Luis](/2022/Luis)**  |       [✅](/2022/Luis/Bulletins)       |          [✅](/2022/Luis/Tracks)          |     ❌    |
+|  **[Maymay](/2022/Maymay)**  |       [✅](/2022/Maymay/Bulletins)       |          [✅](/2022/Maymay/Tracks)          |     [✅](/2022/Maymay/TCWS)    |
 
 *For quick and easy navigation, click the checkmarks to get redirected to that folder.*
 
