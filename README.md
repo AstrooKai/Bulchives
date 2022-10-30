@@ -18,6 +18,9 @@ Bulchives is a data repository where all tropical cyclone bulletins, track maps,
 |  **[Karding](/2022/Karding)**  |       [✅](/2022/Karding/Bulletins)       |          [✅](/2022/Karding/Tracks)          |     [✅](/2022/Karding/TCWS)    |
 |  **[Luis](/2022/Luis)**  |       [✅](/2022/Luis/Bulletins)       |          [✅](/2022/Luis/Tracks)          |     ❌    |
 |  **[Maymay](/2022/Maymay)**  |       [✅](/2022/Maymay/Bulletins)       |          [✅](/2022/Maymay/Tracks)          |     [✅](/2022/Maymay/TCWS)    |
+|  **[Neneng](/2022/Neneng)**  |       [✅](/2022/Neneng/Bulletins)       |          [✅](/2022/Neneng/Tracks)          |     [✅](/2022/Neneng/TCWS)    |
+|  **[Obet](/2022/Maymay)**  |       [✅](/2022/Obet/Bulletins)       |          [✅](/2022/Obet/Tracks)          |     [✅](/2022/Obet/TCWS)    |
+|  **[Paeng](/2022/Maymay)**  |       [✅](/2022/Paeng/Bulletins)       |          [✅](/2022/Paeng/Tracks)          |     [✅](/2022/Paeng/TCWS)    |
 
 *For quick and easy navigation, click the checkmarks to get redirected to that folder.*
 
