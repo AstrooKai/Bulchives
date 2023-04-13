@@ -1,0 +1,80 @@
+CHANGELOG 2023
+LAST MODIFIED: APRIL 13 2023
+|—————————————| FEB 05 |—————————————|
+[ADDED TC PRELIMINARY SUMMARY FILES]
+- Agaton_TC_Preliminary_Summary.pdf
+- Basyang_TC_Preliminary_Summary.pdf
+- Caloy_TC_Preliminary_Summary.pdf
+- Domeng_TC_Preliminary_Summary.pdf
+- Ester_TC_Preliminary_Summary.pdf
+- Florita_TC_Preliminary_Summary.pdf
+- Gardo_TC_Preliminary_Summary.pdf
+- Henry_TC_Preliminary_Summary.pdf
+- Inday_TC_Preliminary_Summary.pdf
+- Josie_TC_Preliminary_Summary.pdf
+- Karding_TC_Preliminary_Summary.pdf
+- Luis_TC_Preliminary_Summary.pdf
+- Maymay_TC_Preliminary_Summary.pdf
+- Neneng_TC_Preliminary_Summary.pdf
+- Obet_TC_Preliminary_Summary.pdf
+- Paeng_TC_Preliminary_Summary.pdf
+- Queenie_TC_Preliminary_Summary.pdf
+- Rosal_TC_Preliminary_Summary.pdf
+|—————————————| FEB 27 |—————————————|
+[2023 DIRECTORY ADDED]
+- /2023/
+|—————————————| APR 11 |—————————————|
+[AMANG 2023 DIRECTORY ADDED]
+- /2023/Amang/Bulletins/
+- /2023/Amang/Tracks/
+- /2023/Amang/TCWS/
+|—————————————| APR 13 |—————————————|
+[AMANG 2023 FILES ADDED]
+- /2023/Amang/Bulletins/Amang_TCB_1.pdf
+- /2023/Amang/Bulletins/Amang_TCB_2.pdf
+- /2023/Amang/Bulletins/Amang_TCB_3.pdf
+- /2023/Amang/Bulletins/Amang_TCB_4.pdf
+- /2023/Amang/Bulletins/Amang_TCB_5.pdf
+- /2023/Amang/Bulletins/Amang_TCB_6.pdf
+- /2023/Amang/Bulletins/Amang_TCB_7.pdf
+- /2023/Amang/Bulletins/Amang_TCB_8.pdf
+- /2023/Amang/Bulletins/Amang_TCB_9.pdf
+- /2023/Amang/Bulletins/Amang_TCB_10.pdf
+- /2023/Amang/Bulletins/Amang_TCB_11.pdf
+- /2023/Amang/Bulletins/Amang_TCB_12.pdf
+- /2023/Amang/Bulletins/Amang_TCB_13.pdf
+- /2023/Amang/Bulletins/Amang_TCB_14.pdf
+- /2023/Amang/Bulletins/Amang_TCB_15.pdf
+- /2023/Amang/Bulletins/Amang_TCB_16F.pdf
+- /2023/Amang/TCWS/Amang_TCWS_1.pdf
+- /2023/Amang/TCWS/Amang_TCWS_2.pdf
+- /2023/Amang/TCWS/Amang_TCWS_3.pdf
+- /2023/Amang/TCWS/Amang_TCWS_4.pdf
+- /2023/Amang/TCWS/Amang_TCWS_5.pdf
+- /2023/Amang/TCWS/Amang_TCWS_6.pdf
+- /2023/Amang/TCWS/Amang_TCWS_7.pdf
+- /2023/Amang/TCWS/Amang_TCWS_8.pdf
+- /2023/Amang/TCWS/Amang_TCWS_9.pdf
+- /2023/Amang/TCWS/Amang_TCWS_10.pdf
+- /2023/Amang/TCWS/Amang_TCWS_11.pdf
+- /2023/Amang/TCWS/Amang_TCWS_12.pdf
+- /2023/Amang/TCWS/Amang_TCWS_13.pdf
+- /2023/Amang/TCWS/Amang_TCWS_14.pdf
+- /2023/Amang/TCWS/Amang_TCWS_15.pdf
+- /2023/Amang/TCWS/Amang_TCWS_16F.pdf
+- /2023/Amang/Tracks/Amang_Forecast_Track_1.pdf
+- /2023/Amang/Tracks/Amang_Forecast_Track_2.pdf
+- /2023/Amang/Tracks/Amang_Forecast_Track_3.pdf
+- /2023/Amang/Tracks/Amang_Forecast_Track_4.pdf
+- /2023/Amang/Tracks/Amang_Forecast_Track_5.pdf
+- /2023/Amang/Tracks/Amang_Forecast_Track_6.pdf
+- /2023/Amang/Tracks/Amang_Forecast_Track_7.pdf
+- /2023/Amang/Tracks/Amang_Forecast_Track_8.pdf
+- /2023/Amang/Tracks/Amang_Forecast_Track_9.pdf
+- /2023/Amang/Tracks/Amang_Forecast_Track_10.pdf
+- /2023/Amang/Tracks/Amang_Forecast_Track_11.pdf
+- /2023/Amang/Tracks/Amang_Forecast_Track_12.pdf
+- /2023/Amang/Tracks/Amang_Forecast_Track_13.pdf
+- /2023/Amang/Tracks/Amang_Forecast_Track_14.pdf
+- /2023/Amang/Tracks/Amang_Forecast_Track_15.pdf
+- /2023/Amang/Tracks/Amang_Forecast_Track_16F.pdf
